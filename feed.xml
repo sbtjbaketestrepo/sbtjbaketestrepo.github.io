@@ -6,14 +6,14 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 17 Apr 2015 14:31:21 +0200</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2015 14:31:21 +0200</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2015 14:34:18 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2015 14:34:18 +0200</lastBuildDate>
 
     
     <item>
       <title>Rendering engine missing</title>
       <link>http://jbake.org/blog/2013/third-post.html</link>
-      <pubDate>Fri, 17 Apr 2015 14:31:20 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2015 14:34:17 +0200</pubDate>
       <guid isPermaLink="false">blog/2013/third-post.html</guid>
       <description>
       The markup engine [org.jbake.parser.AsciidoctorEngine] for [src/main/resources/content/blog/2013/third-post.adoc] couldn&apos;t be loaded
@@ -23,7 +23,7 @@
     <item>
       <title>Rendering engine missing</title>
       <link>http://jbake.org/blog/2013/fourth-post.html</link>
-      <pubDate>Fri, 17 Apr 2015 14:31:20 +0200</pubDate>
+      <pubDate>Fri, 17 Apr 2015 14:34:17 +0200</pubDate>
       <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
       <description>
       The markup engine [org.jbake.parser.AsciidoctorEngine] for [src/main/resources/content/blog/2013/fourth-post.adoc] couldn&apos;t be loaded
@@ -63,6 +63,8 @@ mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin fe
 ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet 
 ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus, 
 id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales.&lt;/p&gt; 
+
+test
 
 &lt;pre class=&quot;prettyprint&quot;&gt;
 &lt;code&gt;
